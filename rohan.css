@@ -1,0 +1,25 @@
+.pera-style{
+    font-size: 40px;
+    color:green;
+    background-color:rgb(129, 16, 16);
+}
+.name-style{
+   font-size: 100px; 
+    color:black;
+
+}
+.photo-style{
+    width: 70%;
+
+
+}
+a{
+    font-size: 100px;
+    color: brown;
+    text-decoration: none;
+}
+h1{
+    font-size:80px ;
+    color: black;
+
+}
